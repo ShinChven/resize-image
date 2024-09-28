@@ -32,6 +32,7 @@ resize-image <path> <max_length> [--quality <quality>] [--filetype <filetype>]
 - `<max_length>`: The maximum length for resizing (in pixels).
 - `--quality <quality>`: (Optional) Set the target image quality (default is 100%).
 - `--filetype <filetype>`: (Optional) Set the target file type (default is the original type).
+- **Supported Formats**: JPEG (`.jpg`, `.jpeg`), PNG (`.png`), BMP (`.bmp`), GIF (`.gif`), WebP (`.webp`).
 
 ### Example
 
